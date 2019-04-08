@@ -1,4 +1,4 @@
-[Home](/) | [Docs](/docs) | [Changelog](/changelog) | [Support](https://themeforest.net/) | [Download](https://themeforest.net/)
+[Home](/) | [Docs](/docs) | [Changelog](/changelog) | [Support](/support) | [Download](/download)
 
 # Changelog
 
