@@ -4,7 +4,7 @@
 
 Fast, lightweight, optimized and responsive WooCommerce WordPress theme.
 
-[Download the theme](/download)
+[View demo](/demo) or [Download the theme](/download)
 
 ## Getting started
 
