@@ -4,4 +4,4 @@
 
 Do you need help or found a bug?
 
-You can [get support on WOOptimized ThemeForest support section](https://themeforest.net/search/wooptimized).
+You can [get support on ThemeForest](https://themeforest.net/search/wooptimized).

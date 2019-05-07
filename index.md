@@ -10,7 +10,7 @@ Fast, lightweight, optimized and responsive WooCommerce WordPress theme.
 
 [Read the documentation](/docs) if you want to learn how to setup and use the theme.
 
-[Check the changelog](/changelog) if you're interested to know what's new.
+[Check the changelog](/changelog) if you are interested to know what we introduced in recent updates.
 
 ## Support
 
