@@ -14,7 +14,7 @@ To install the theme on your WordPress website, follow these steps:
 
 The theme provides a set of pre-built websites. Instead of starting a website design from scratch you can import the demo content with a few clicks and customize it in your own way.
 
-By default, the theme uses Elementor page builder for the demo content, but you can use to other page builders if you want.
+By default, the theme uses Elementor page builder for the demo content, if you prefer you can use other page builders too.
 
 To import the demo content, follow these steps:
 
