@@ -14,7 +14,7 @@ To install the theme on your WordPress website, follow these steps:
 
 The theme provides a set of pre-built websites. Instead of starting a website design from scratch you can import the demo content with a few clicks and customize it in your own way.
 
-By default, the theme uses Elementor page builder for the demo content, if you prefer you can use other page builders too.
+By default, the theme uses Elementor page builder for the demo content. If you prefer you can use other page builders too.
 
 To import the demo content, follow these steps:
 
@@ -62,20 +62,20 @@ A basic theme options are in `Appearance > WOOptimized Options`.
 
 All theme appearance options can be found in `Appearance > Customize`.
 
-As of the theme by default uses Elementor page build, you can modify home page and other pages appearance using Elementor page builder itself.
+As of the theme by default uses Elementor page builder, you can modify home page and other pages appearance using Elementor page builder itself.
 
 ## How to get WOOptimized child theme?
 
 If you want to make advanced code changes to the theme, the best way to do it is using a child theme.
 
-If you used the theme setup wizard, then you should have a child theme installed and activated automatically already.
+If you used the theme setup wizard, then you should already have a child theme installed and activated automatically.
 
 ## How to update WOOptimized theme?
 
-As suggested in `After importing WOOptimized demo content` section, you should already have correctly setup Envato Market plugin, which provides automatic theme updates.
+As suggested in `After importing WOOptimized demo content` section, you should already have a correctly setup Envato Market plugin which provides an automatic theme updates.
 
 Once an automatic theme update is available, go to `Appearance > Themes` and click `Update Now` button on WOOptimized theme.
 
 If you prefer not to use Envato Market plugin, then you should check for available updates manually on ThemeForest website.
 
-To check what theme version you are using, go to `Appearance > Themes`.
+To check what theme version you are using, go to `Appearance > Themes` and check WOOptimized theme version.
