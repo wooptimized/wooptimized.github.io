@@ -54,7 +54,7 @@ To fully setup the theme, follow these steps:
 	2. Using your preferred connection method, Connect to Envato API.
 7. To replace some URLs which are still pointing to WOOptimized demo website:
 	1. Install and activate [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) or [WP Migrate DB](https://wordpress.org/plugins/wp-migrate-db/) plugin.
-	2. Using a preferred plugin, find and replace URLs which are still pointing to WOOptimized demo website. To find specific WOOptimized demo website URLs - use view source functionality in your browser while viewing frontend of your website.
+	2. Using a preferred plugin, find and replace URLs which are still pointing to WOOptimized demo website. To find specific WOOptimized demo website URLs - use view source functionality in your browser while viewing a frontend of your website.
 
 ## How to change WOOptimized theme appearance, customize options, etc.?
 
