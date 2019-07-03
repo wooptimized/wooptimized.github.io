@@ -2,10 +2,6 @@
 
 # Changelog
 
-## 1.1.7 (May 7th, 2019)
-
-- Preparation for public release.
-
-## 1.1.3 (March 29th, 2019)
+## 1.2.1 (July 3rd, 2019)
 
 - Initial release.
