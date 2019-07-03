@@ -38,13 +38,13 @@ To fully setup the theme, follow these steps:
 	3. Follow the setup wizard instructions.
 3. To finish a setup of color variation attributes:
 	1. Go to `Products > Attributes`.
-	2. Move a mouse over a `color` attribute table row and click `Edit`.
+	2. Move your mouse over a `color` attribute table row and click `Edit`.
 	3. Change `Type` to `Color`.
 	4. Click `Update` button.
 4. To make sure that Contact Form 7 works correctly:
 	1. Go to `Contact`.
-	2. Check and update a configuration of each form (e.g. sender and receiver email addresses, etc.).
-	3. Click `Save` button for each form if any changes were made.
+	2. Check and update a configuration of each contact form (e.g. sender and receiver email addresses, etc.).
+	3. Click `Save` button on each contact form if any changes were made.
 5. To setup Instagram Feed:
 	1. Go to `Instagram Feed`.
 	2. Using your preferred connection method, connect to Instagram API.
@@ -54,7 +54,7 @@ To fully setup the theme, follow these steps:
 	2. Using your preferred connection method, Connect to Envato API.
 7. To replace some URLs which are still pointing to WOOptimized demo website:
 	1. Install and activate [Better Search Replace](https://wordpress.org/plugins/better-search-replace/) or [WP Migrate DB](https://wordpress.org/plugins/wp-migrate-db/) plugin.
-	2. Using a preferred plugin, find and replace URLs which are still pointing to WOOptimized demo website.
+	2. Using a preferred plugin, find and replace URLs which are still pointing to WOOptimized demo website. To find specific WOOptimized demo website URLs - use view source functionality in your browser while viewing frontend of your website.
 
 ## How to change WOOptimized theme appearance, customize options, etc.?
 
